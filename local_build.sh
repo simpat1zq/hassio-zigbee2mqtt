@@ -13,5 +13,5 @@ docker run -it --rm --privileged --name "zigbee2mqtt" \
     --armhf \
     --from "homeassistant/{arch}-base" \
     --author "Daniel Welch <dwelch2102@gmail.com>" \
-    --doc-url "https://github.com/danielwelch/hassio-zigbee2mqtt" \
+    --doc-url "https://github.com/simpat1zq/hassio-zigbee2mqtt" \
     --parallel
